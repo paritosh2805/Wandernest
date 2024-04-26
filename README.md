@@ -29,7 +29,7 @@ authentication for a more seamless login process.
  •
  •
  •
- We'll also used cloundinary CDN for image uploads and client Phone validation 
+ We've also used cloundinary CDN for image uploads and client Phone validation 
 and handling using React hook form, to ensure smooth operation.
  we've used React toast for server error handling and React date range for 
 calendars.
